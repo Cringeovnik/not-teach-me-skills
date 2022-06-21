@@ -1,1 +1,1 @@
-print(dich)
+print ('dich')
